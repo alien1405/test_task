@@ -1,0 +1,50 @@
+* {
+	font-family:arial;
+	font-size:15pt;
+	
+}
+
+.form {
+ position: absolute;
+    top: 30%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+}
+
+.index {
+ position: absolute;
+    top: 30%;
+    left: 50%;
+    margin: -125px 0 0 -125px;
+}
+
+.view {
+ position: absolute;
+    top: 10%;
+    left: 40%;	
+}
+
+
+.view_proj {
+	
+ position: absolute;
+    top: 10%;
+    left: 3%;
+}
+
+
+header{	
+width: 100%;
+position: absolute;
+background: #3366CC;
+height: 70px;
+font-size:15pt;
+}
+
+.tt{	
+font-size:20pt;
+color: white;
+position: absolute;
+top: 25%;
+left: 3%;
+}
